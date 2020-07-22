@@ -1,5 +1,3 @@
-# Clint Jang (장왕수)
-
 ### 개발 관련 수다 떠는 것을 좋아하고, 삽질을 많이 하는 iOS 개발자입니다.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ClintJang)](https://github.com/anuraghazra/github-readme-stats)
