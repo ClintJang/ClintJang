@@ -3,7 +3,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ClintJang)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Link
-> [E-Mail](jang.wangsu@gmail.com), [Medium Blog](https://medium.com/@jang.wangsu), [GitHub](http://github.com/ClintJang), [Facebook](https://www.facebook.com/clint.jang.7), [LinkedIn](https://www.linkedin.com/in/clint-jang-504b711b1), [Simple Resume](https://github.com/ClintJang/resume)
+> [E-mail](jang.wangsu@gmail.com), [Medium Blog](https://medium.com/@jang.wangsu), [GitHub](http://github.com/ClintJang), [Facebook](https://www.facebook.com/clint.jang.7), [LinkedIn](https://www.linkedin.com/in/clint-jang-504b711b1), [Simple Resume](https://github.com/ClintJang/resume)
 
 <!--
 
