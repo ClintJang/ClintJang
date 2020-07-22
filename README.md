@@ -1,9 +1,11 @@
-### 개발 관련 수다 떠는 것을 좋아하고, 삽질을 많이 하는 iOS 개발자입니다.
+### 수다 떠는 것을 좋아하고, 삽질을 많이 하는 개발자입니다.
+#### 현재 `Swift`, `iOS` 개발을 즐기고 있습니다. 😄
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ClintJang)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Link
+#### My Link
 > [E-mail](jang.wangsu@gmail.com), [Medium Blog](https://medium.com/@jang.wangsu), [GitHub](http://github.com/ClintJang), [Facebook](https://www.facebook.com/clint.jang.7), [LinkedIn](https://www.linkedin.com/in/clint-jang-504b711b1), [Simple Resume](https://github.com/ClintJang/resume)
+
 
 <!--
 
