@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jang.wangsu@gmail.com)](mailto:jang.wangsu@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/clint.jang.7/)](https://www.facebook.com/clint.jang.7/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clint-jang-504b711b1/)](https://www.linkedin.com/in/clint-jang-504b711b1)
-[![Simple Resume](https://img.shields.io/static/v1?label=Simple&message=Resume&color=yellow&link=mailto:jang.wangsu@gmail.com)](https://github.com/ClintJang/resume)
+[![Simple Resume](https://img.shields.io/static/v1?label=Simple&message=Resume&color=yellow&link=https://github.com/ClintJang/resume)](https://github.com/ClintJang/resume)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ClintJang)](https://github.com/anuraghazra/github-readme-stats)
 
